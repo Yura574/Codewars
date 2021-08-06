@@ -16,22 +16,6 @@ function  DNA (dna) {
         }
 
     })
-    // let filterArrayA = stringToArray.filter(n => n === "A")
-    //  filterArrayA.forEach(n => {
-    //     newArray.push("T")
-    // })
-    // let filterArrayT = stringToArray.filter(n => n === "T")
-    //  filterArrayT.forEach(n => {
-    //     newArray.push("A")
-    // })
-    // let filterArrayC = stringToArray.filter(n => n === "C")
-    //  filterArrayC.forEach(n => {
-    //     newArray.push("G")
-    // })
-    // let filterArrayG = stringToArray.filter(n => n === "G")
-    //  filterArrayG.forEach(n => {
-    //     newArray.push("C")
-    // })
 
     return newArray.join('')
 }
